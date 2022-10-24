@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661034918 source:c:\users\tamara\desktop\marco\estructura vehiculos completo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
